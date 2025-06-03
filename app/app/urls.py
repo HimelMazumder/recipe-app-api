@@ -20,4 +20,4 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-setLintingError=1
+setLintingError = 1
